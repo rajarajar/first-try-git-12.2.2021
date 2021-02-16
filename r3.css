@@ -6,3 +6,17 @@ di {
 h2 {
 	color: yellow;
 }
+table,th,td {
+	border: 2px solid red;
+	border-width: 3px;
+	border-collapse: collapse;
+}
+table{
+	size: 33px;
+	width: 100%
+}
+th,td{
+	padding: 22px;
+	text-align: center;
+	background-color: orange;
+}
